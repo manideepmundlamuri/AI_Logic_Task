@@ -1,14 +1,14 @@
 Autheniccation REST API 
 
 What i implemented is 
-1)user registration and login  
-2)Password hashing using bcrypt 
-3)Jwt-based authentication
-4)protected API routes 
-5)request validation 
-6)rate limiting with 429 too many requets
-7) MongoDB database integration using mongoose 
-8) Environment variables usign .env file 
+1) user registration and login
+2) Password hashing using bcrypt
+3) Jwt-based authentication
+4) protected API routes
+5) request validation
+6) rate limiting with 429 too many requets
+7) MongoDB database integration using mongoose
+8) Environment variables usign .env file
 9) CORS configuration
 
 Security features
